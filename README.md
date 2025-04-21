@@ -1,9 +1,9 @@
 
-# Sword of Freedom
+# Dungen Escape
 
 ## Description
 
-**Sword of Freedom** is a thrilling first-person sword combat game set in the medieval era. The player starts in a dungeon beneath a castle and must work their way through various levels, including a challenging boss fight, to ultimately escape to freedom. 
+**Dungen Escape** is a thrilling first-person sword combat game set in the medieval era. The player starts in a dungeon beneath a castle and must work their way through various levels, including a challenging boss fight, to ultimately escape to freedom. 
 
 ## Game Mechanics
 
