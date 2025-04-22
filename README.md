@@ -1,9 +1,9 @@
 
-# Dungen Escape
+# Dungeon Escape
 
 ## Description
 
-**Dungen Escape** is a thrilling first-person sword combat game set in the medieval era. The player starts in a dungeon beneath a castle and must work their way through various levels, including a challenging boss fight, to ultimately escape to freedom. 
+**Dungeon Escape** is a thrilling first-person sword combat game set in the medieval era. The player starts in a dungeon beneath a castle and must work their way through various levels, including a challenging boss fight, to ultimately escape to freedom. 
 
 ## [Video Presentation Of The Game](https://drive.google.com/file/d/1XG-reFi1TJqyhNqQBgQaC9mFOBu477oG/view?usp=drivesdk) (click to view).
 
